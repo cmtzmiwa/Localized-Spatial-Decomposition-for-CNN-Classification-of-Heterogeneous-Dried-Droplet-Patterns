@@ -1,0 +1,2 @@
+# Localized-Spatial-Decomposition-for-CNN-Classification-of-Heterogeneous-Dried-Droplet-Patterns
+This repository was developed to support research on the automated classification of methotrexate (MTX) dry-droplet patterns using CNNs. The dataset presents a collection of images of dried MTX droplets at four concentration levels, where the lower concentrations correspond to samples adulterated with 20%, 40%, and 60% water.
