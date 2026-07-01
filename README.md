@@ -107,7 +107,7 @@ Each category contains complete droplet images and extracted ROIs, organized by 
 | ------- | ----------------------- | ---------------------------------- |
 | Level 1 | Category                | `Control` or `Experimental`        |
 | Level 2 | Subcategory             | `Droplets` or `ROIs`               |
-| Level 3 | Water content / session | `40% W.C.`, `60% W.C.`, `80% W.C.` |
+| Level 3 | Water content           | `40% W.C.`, `60% W.C.`, `80% W.C.` |
 | Level 4 | Image files             | `1_Control_DSC_2241_Circle_0.jpg`  |
 
 ## Image Naming Convention
